@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc4e00b4-9191-4ecf-962a-508e0a9644ef" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.html" beforeDir="false" afterPath="$PROJECT_DIR$/styles.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +16,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="150" lean-forward="true" selection-start-line="150" selection-end-line="150" />
+            <state relative-caret-position="265">
+              <caret line="953" column="25" selection-start-line="952" selection-start-column="12" selection-end-line="953" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -72,6 +70,16 @@
               <item name="ferdinandl007.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="ferdinandl007.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="ferdinandl007.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ferdinandl007.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ferdinandl007.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ferdinandl007.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Suppablog HTML" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -105,12 +113,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523470468496</updated>
-      <workItem from="1523470471058" duration="2045000" />
+      <workItem from="1523470471058" duration="3545000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2045000" />
+    <option name="totallyTimeSpent" value="3545000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -160,8 +168,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="150" lean-forward="true" selection-start-line="150" selection-end-line="150" />
+        <state relative-caret-position="265">
+          <caret line="953" column="25" selection-start-line="952" selection-start-column="12" selection-end-line="953" selection-end-column="25" />
         </state>
       </provider>
     </entry>
