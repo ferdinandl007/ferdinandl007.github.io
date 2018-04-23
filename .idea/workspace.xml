@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc4e00b4-9191-4ecf-962a-508e0a9644ef" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog.html" afterDir="false" />
-    </list>
+    <list default="true" id="cc4e00b4-9191-4ecf-962a-508e0a9644ef" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/Blog.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -174,16 +172,15 @@
       <workItem from="1524430189508" duration="366000" />
       <workItem from="1524474923417" duration="191000" />
       <workItem from="1524503776877" duration="355000" />
-      <workItem from="1524504326117" duration="16000" />
+      <workItem from="1524504326117" duration="392000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18882000" />
+    <option name="totallyTimeSpent" value="19258000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20833333" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -526,7 +523,7 @@
     <entry file="file://$PROJECT_DIR$/Blog.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
