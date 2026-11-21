@@ -8,4 +8,6 @@ Prism stores your favorites and settings on your device. If you choose to save a
 
 When you play a web video, Prism requests the stream and any publisher-provided recommendations or thumbnails. These may be hosted by the site, the publisher, or its media provider. Where a stream or image needs an existing session, Prism uses cookies for that destination. Prism reads local videos you choose in Files.
 
+When you choose a demo on the Start Page, Prism streams it from GitHub Pages. GitHub Pages logs IP addresses for security. See GitHub's privacy statement at https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement.
+
 Use Privacy → Clear All Website Data to delete website data, including cookies. Remove favorites from the Start Page and use Forget Saved Login on the corresponding website to remove a saved credential. You can turn off Private Browsing and change the cookie setting from Privacy at any time.
