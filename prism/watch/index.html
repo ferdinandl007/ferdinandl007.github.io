@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Orbit · Prism Video</title>
+<style>
+  :root { color-scheme: dark; font: 18px/1.45 system-ui, sans-serif; background: #101320; color: #f7f3f0; }
+  main { max-width: 53rem; margin: 2rem auto; padding: 0 1.5rem 2rem; }
+  header { display: flex; gap: 1rem; align-items: baseline; justify-content: space-between; }
+  h1 { font-size: clamp(2.35rem, 6vw, 3.7rem); letter-spacing: -.05em; margin: 0; }
+  header p { color: #cdc3cc; margin: .15rem 0 1rem; }
+  a { color: #f3bd9d; text-underline-offset: .18em; }
+  .player { position: relative; overflow: hidden; border-radius: 1rem; background: #171829; }
+  video { width: 100%; aspect-ratio: 1000 / 580; max-height: 62vh; object-fit: cover; display: block; }
+  button { position: absolute; inset: auto auto 1rem 1rem; color: #241830; background: #ffdfcb; border: 0; padding: .8em 1.15em; border-radius: 2em; font: inherit; font-weight: 650; cursor: pointer; }
+  button[hidden] { display: none; }
+</style>
+<main>
+  <header><div><h1>Orbit</h1><p>180° stereo · Green screen</p></div><a href="../">Prism support</a></header>
+  <div class="player">
+    <video title="Orbit" format="STEREO_180_LR" data-green-screen preload="metadata" poster="orbit.jpg" playsinline>
+      <source src="orbit-green-screen-180_LR.mp4" type="video/mp4">
+    </video>
+    <button type="button" id="start">Play Orbit</button>
+  </div>
+  <p><a href="orbit-green-screen-180_LR.mp4">Direct MP4</a></p>
+</main>
+<script>
+  const video = document.querySelector("video");
+  const start = document.querySelector("#start");
+  start.addEventListener("click", async () => {
+    try {
+      await video.play();
+      video.controls = true;
+      start.hidden = true;
+    } catch {
+      video.controls = true;
+    }
+  });
+</script>
+</html>

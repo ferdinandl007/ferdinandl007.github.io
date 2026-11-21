@@ -1,0 +1,11 @@
+Prism runs on your Apple Vision Pro. Prism has no Prism account, analytics service, or advertising SDK. It does not send your browsing history, saved passwords, or local video files to a Prism server.
+
+Websites receive the requests needed to load pages and media. They may use cookies and other data according to their own privacy policies. Your search terms go to Google when you search from the address bar or Start Page. If you open a page in the system browser, that browser handles the page and its own website data.
+
+With Allow Cookies enabled, regular browsing can retain website data on your device between launches. Private Browsing uses a temporary session and discards its website data when you close that session. Turning off Allow Cookies blocks cookies in a separate browsing session until you enable them again.
+
+Prism stores your favorites and settings on your device. If you choose to save a website login, Prism stores it in the device Keychain. Prism can retrieve it to fill that site's sign-in form when you request it. Optic ID and passcode authentication are handled by the system. Prism receives the authentication result.
+
+When you play a web video, Prism requests the stream and any publisher-provided recommendations or thumbnails. These may be hosted by the site, the publisher, or its media provider. Where a stream or image needs an existing session, Prism uses cookies for that destination. Prism reads local videos you choose in Files.
+
+Use Privacy → Clear All Website Data to delete website data, including cookies. Remove favorites from the Start Page and use Forget Saved Login on the corresponding website to remove a saved credential. You can turn off Private Browsing and change the cookie setting from Privacy at any time.
