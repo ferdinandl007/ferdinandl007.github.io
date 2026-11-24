@@ -1,0 +1,28 @@
+:root {
+  color-scheme: dark;
+  color: #f4f5ff;
+  background: #0b0d17;
+  font-family: system-ui, -apple-system, sans-serif;
+  line-height: 1.6;
+}
+body { margin: 0; }
+a { color: #a7cbff; text-underline-offset: 0.22em; }
+a:focus-visible { outline: 2px solid #c1d8ff; outline-offset: 5px; }
+.hero {
+  min-height: clamp(17rem, 47vw, 31rem);
+  display: flex;
+  align-items: end;
+  background: linear-gradient(0deg, #0b0d17 0%, #0b0d171a 75%), url("runway.jpg") center 48% / cover;
+}
+.hero-copy, main { width: min(42rem, calc(100% - 3rem)); margin-inline: auto; }
+.hero-copy { padding-block: 2.5rem 0.5rem; }
+.brand { margin: 0; font-size: 0.85rem; font-weight: 750; letter-spacing: 0.20em; color: #bfd0ff; }
+h1, h2 { line-height: 1.13; letter-spacing: -0.035em; }
+h1 { margin: 0.18em 0; font-size: clamp(3rem, 8vw, 5rem); }
+h2 { margin: 0 0 0.7rem; font-size: 1.45rem; }
+p { margin: 0.6rem 0; color: #c8cbe0; }
+section { padding-block: 1.7rem; border-bottom: 1px solid #292c41; }
+footer { padding-block: 2rem 3rem; }
+.policy { padding-block: 3rem; }
+.date { color: #a5aac7; }
+.action { display: inline-block; margin-top: 0.8rem; font-weight: 650; }
